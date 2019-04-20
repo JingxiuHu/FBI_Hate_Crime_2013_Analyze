@@ -9,6 +9,7 @@
 
 - Based on previous FBI announcement sent by DU email about the armed girl who had experience in a school shooting. So we are deeply concerned about out safety situation and want know more about crime data. So we find the dataset from FBI Hate Crime.
 The problem we want to solve is the find the State that has the highest rate of crimes. 
+- Here is the github link of our dataset: https://github.com/emorisse/FBI-Hate-Crime-Statistics
 
 ## What libraries/tools you will need. What you already know and what else you need to evaluate.
 
