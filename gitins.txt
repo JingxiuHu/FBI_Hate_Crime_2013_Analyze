@@ -1,0 +1,7 @@
+1.fisrtly, go to my own branch 
+	git checkout xiaolin_test
+2.git pull origin master
+	if there is untracked file:
+		do git add .
+		then git push origin xiaolin_test
+		finally, git pull origin master
