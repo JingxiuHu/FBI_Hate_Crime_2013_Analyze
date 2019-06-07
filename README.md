@@ -52,3 +52,5 @@ Summary  |  Collect all the calculate results from previous work: 1 week
 Visualization  |  Use all the datas to get plots and maps: 3 weeks
 
 ## All plans and written work may be changed during processing the project.
+
+## Binder link: https://mybinder.org/v2/gh/JingxiuHu/FBI_Hate_Crime_2013_Analyze/master?filepath=2013_fbi_crime_data_Report.ipynb
